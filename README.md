@@ -1,6 +1,6 @@
 # 📝 Animation & Simulation of Operating System Semaphores
 
-[Video Presentation](https://youtu.be/EUjkejbAMOc)
+[Simulation Video](https://youtu.be/EUjkejbAMOc)
 
 ### 🔍 Overview
 This collaborative system programming project focused on bridging theoretical operating system concepts with real-world technical execution. Working in a group of 4 members, we developed an interactive animation and simulation program designed to visually explain and execute the mechanics of Semaphores—a fundamental OS synchronization tool used to manage concurrent processes and prevent race conditions within a shared memory space.
